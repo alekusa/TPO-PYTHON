@@ -17,10 +17,11 @@ Google Fonts
 iFrames de google map's
 iFrames de youtube
 (icon solid fa-home) en la barra de navegacion.
- css/main.css 
+ css/main.css
+'''
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
-
+'''
 5)_Tener al menos una página totalmente responsive con mínimo 3 puntos
 de corte para 3 tamaños de dispositivos (PC escritorio, Tablet, Celular)
 todas las paginas son responsive
