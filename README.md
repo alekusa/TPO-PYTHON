@@ -1,4 +1,4 @@
-- TPO Nº1 HTML and CSS - Comision 27 Python Full Stack.
+-- TPO Nº1 HTML and CSS  Comision 27 Python Full Stack. --
 1)_ Poseer al menos 5 páginas html, siendo su temática libre.
 index.html -> Presentacion
 temas-curtso-informatica.html -> Temas
@@ -15,7 +15,6 @@ contacto.html -> esta el formulario, de contacto.
 Google Fonts
 iFrames de google map's
 iFrames de youtube
--
 (icon solid fa-home) en la barra de navegacion.
  css/main.css 
 @import url("fontawesome-all.min.css");
