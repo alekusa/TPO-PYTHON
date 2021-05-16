@@ -33,18 +33,18 @@ de corte para 3 tamaños de dispositivos (PC escritorio, Tablet, Celular)
 - [x] Todas las paginas son responsive
 
 6. Utilizar al menos una animación, transformación o una transición.
-Con un CSS particular - css/animacion.css -> en la pagina contacto.html - en los botones convinacion de <a><input>
+- [x] Con un CSS particular - css/animacion.css -> en la pagina contacto.html - en los botones convinacion de <a><input>
 para lograr la animacion del borde en movimiento, y transicion de colores
 
 7. Poseer una estructura HTML maquetada con Flexbox y/o Grid.
-flex en css 
-linea > 215 para row
-linea > 457 para 1680px
-linea > 702 para 1280px
-linea > 947 para 980px
-linea > 1192 para 736px
+- [x] flex en css 
+- linea > 215 para row
+- linea > 457 para 1680px
+- linea > 702 para 1280px
+- linea > 947 para 980px
+- linea > 1192 para 736px
 
 
 8. Utilizar un componente (sólo uno) de Bootstrap
-Carousel simple editado para sacarle los botones de next
-colocado dentro de unr article dentro de sidebar
+- [x] Carousel simple editado para sacarle los botones de next
+colocado dentro de un article dentro de sidebar en idex.html
