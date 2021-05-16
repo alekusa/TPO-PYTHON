@@ -1,10 +1,11 @@
 # TPO Nº1 HTML and CSS  Curso Full Stack Python 2021
 
 1. Poseer al menos 5 páginas html, siendo su temática libre.
-index.html -> Presentacion
-temas-curtso-informatica.html -> Temas
-contactos.html - > contacto
-usuario.html -> informacion del user
+- [x] index.html -> Presentacion
+- [x] temas-curtso-informatica.html -> Temas
+- [x] contactos.html - > contacto
+- [x] usuario.html -> informacion del user
+- [x] otrosCursos.html - Informacion de los cursos que posee
 
 2. Utilizar las etiquetas semánticas de HTML5 de forma correcta.
 Header - article - footer - sidebar
