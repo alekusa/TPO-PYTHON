@@ -8,7 +8,10 @@
 - [x] otrosCursos.html - Informacion de los cursos que posee
 
 2. Utilizar las etiquetas semánticas de HTML5 de forma correcta.
-Header - article - footer - sidebar
+- [x] Header
+- [x] article
+- [x] footer
+- [x] sidebar
 
 3. Contener un formulario.
 contacto.html -> esta el formulario, de contacto.
