@@ -14,15 +14,15 @@
 - [x] sidebar
 
 3. Contener un formulario.
-contacto.html -> esta el formulario, de contacto.
+- [x] contacto.html -> Esta el formulario, de contacto.
 
 4. Utilizar iframes, íconos de FontAwesome, y fuentes locales o bien de
 Google Fonts
-iFrames de google map's
-iFrames de youtube
-(icon solid fa-home) en la barra de navegacion.
- css/main.css
-
+- [x] iFrames de google map's
+- [x] iFrames de youtube
+- [x] (icon solid fa-home) en la barra de navegacion.
+- [x] css Propio css/main.css
+- [x] css importados googleapis y fontawesome
 ```
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
@@ -30,7 +30,7 @@ iFrames de youtube
 
 5. Tener al menos una página totalmente responsive con mínimo 3 puntos
 de corte para 3 tamaños de dispositivos (PC escritorio, Tablet, Celular)
-todas las paginas son responsive
+- [x] Todas las paginas son responsive
 
 6. Utilizar al menos una animación, transformación o una transición.
 Con un CSS particular - css/animacion.css -> en la pagina contacto.html - en los botones convinacion de <a><input>
