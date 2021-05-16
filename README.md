@@ -1,7 +1,9 @@
+TPO Nº1 HTML and CSS - Comision 27 Python Full Stack
 *_ Poseer al menos 5 páginas html, siendo su temática libre.
 index.html -> Presentacion
 temas-curtso-informatica.html -> Temas
 contactos.html - > contacto
+usuario.html -> informacion del user
 
 *_ Utilizar las etiquetas semánticas de HTML5 de forma correcta.
 Header - article - footer - sidebar
@@ -9,7 +11,7 @@ Header - article - footer - sidebar
 *_ Contener un formulario.
 contacto.html -> esta el formulario, de contacto.
 
-*_Utilizar iframes, íconos de FontAwesome, y fuentes locales o bien de
+*_ Utilizar iframes, íconos de FontAwesome, y fuentes locales o bien de
 Google Fonts.
 iFrames de google map's
 iFrames de youtube
