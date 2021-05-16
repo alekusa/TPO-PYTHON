@@ -1,4 +1,5 @@
-** TPO Nº1 HTML and CSS  Comision 27 Python Full Stack. **
+# TPO Nº1 HTML and CSS  Curso Full Stack Python 2021
+
 1)_ Poseer al menos 5 páginas html, siendo su temática libre.
 index.html -> Presentacion
 temas-curtso-informatica.html -> Temas
