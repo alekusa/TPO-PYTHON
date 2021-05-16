@@ -15,9 +15,9 @@ contacto.html -> esta el formulario, de contacto.
 Google Fonts
 iFrames de google map's
 iFrames de youtube
-------
+
 icon solid fa-home en la barra de navegacion.
------- css/main.css ----
+ css/main.css 
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,600|Arvo:700");
 
